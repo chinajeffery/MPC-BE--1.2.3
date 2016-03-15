@@ -230,7 +230,7 @@ class CMainFrame : public CFrameWnd, public CDropTarget
 	CComQIPtr<IBasicVideo> pBV2;
 	CComQIPtr<IVideoFrameStep> pFS2;
 	CComQIPtr<IDvdControl2> pDVDC2;
-	CComQIPtr<IDvdInfo2> pDVDI2; // VtX: поидеи не нужен, но в некоторых местах может понадобиться.
+	CComQIPtr<IDvdInfo2> pDVDI2; // VtX: поидеи не нуже? но ?некоторы?местах може?понадобить?.
 	//
 
 	CComPtr<ICaptureGraphBuilder2> pCGB;
